@@ -16,7 +16,7 @@ Same types as for branches
 - `fix`: Patches a bug/error
 - `feat`: Introduce new functionality
 - `build`: Changes to the build system
-- `chore`: Changes that 
+- `chore`/`misc`: Changes that don't fit into other categories
 - `ci`: Changes to the CI (continuous integration) pipeline (eg. github actions, tests, cppcheck)
 - `docs`: Changes in the documentation
 - `perf`: Performance improvements
