@@ -1,0 +1,6 @@
+.clangd/
+bin/
+build/
+docs/html/
+compile_commands.json
+Session*
