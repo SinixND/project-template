@@ -17,7 +17,7 @@ TEST_DIR 		:= tests
 BIN_EXT 		:= 
 SRC_EXT 		:= .cpp .c
 
-# Options: unix web windows
+# Options: debug release
 BUILD 			:= debug
 # Options: unix web windows
 TARGET 			:= unix
